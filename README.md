@@ -1,2 +1,2 @@
 # MyFirstRepository
-Tutorial Repository
+Hi my name is Kwon Ji Woo
